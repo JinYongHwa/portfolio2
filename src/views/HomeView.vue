@@ -8,7 +8,10 @@
       data-aos-duration="3000"
       ref="swiper"
     >
-      <swiper-slide class="slide" style="background-image: url(/img/top1.jpg)">
+      <swiper-slide
+        class="slide"
+        style="background-image: url(/portfolio2/img/top1.jpg)"
+      >
         <v-layout
           fill-height
           align-center
@@ -25,7 +28,10 @@
           </div>
         </v-layout>
       </swiper-slide>
-      <swiper-slide class="slide" style="background-image: url(/img/top2.jpg)">
+      <swiper-slide
+        class="slide"
+        style="background-image: url(/portfolio2/img/top2.jpg)"
+      >
         <v-layout
           fill-height
           align-center
@@ -42,7 +48,10 @@
           </div>
         </v-layout>
       </swiper-slide>
-      <swiper-slide class="slide" style="background-image: url(/img/top3.jpg)">
+      <swiper-slide
+        class="slide"
+        style="background-image: url(/portfolio2/img/top3.jpg)"
+      >
         <v-layout
           fill-height
           align-center
@@ -67,7 +76,7 @@
       <div class="container">
         <v-layout>
           <v-flex xs4>
-            <img src="/img/top1.jpg" class="project-image" />
+            <img src="/portfolio2/img/top1.jpg" class="project-image" />
           </v-flex>
         </v-layout>
       </div>
